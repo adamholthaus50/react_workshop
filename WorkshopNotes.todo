@@ -1,0 +1,31 @@
+☐ babel-transpiler
+☐ eslint-
+☐ Jest - Testing
+
+☐ Jeremy Moritz - book for javascript for kids
+
+
+☐ 2 ways to create components
+    ☐ classes
+    ☐ functions
+
+☐ point free style
+☐ object destructuring
+
+☐ HTML is the projection of state, whatever is currently in state is the source of truth
+
+
+
+https://github.com/coryhouse/kcdc2019-react/tree/master/src
+https://www.javascriptstuff.com/lists/
+https://babeljs.io/
+https://babeljs.io/repl#?babili=false&browsers=&build=&builtIns=false&spec=false&loose=false&code_lz=DwCwjABAxgNghgZwQOTgWwKYQLwQEQAeeAfMPAEYYwQgAuaMAYgPYBO2eJaAnhBVcAD0_GKQQAHOADtiIKjGZCJ04hADubGABMh4YkA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=es2015%2Creact%2Cstage-2&prettier=false&targets=&version=7.5.4&externalPlugins=
+https://webpack.js.org/
+https://reactjs.org/docs/create-a-new-react-app.html
+https://www.youtube.com/watch?v=x7cQ3mrcKaY
+uncle bob programming
+https://developer.mozilla.org/en-US/
+https://github.com/typicode/json-server
+https://www.reactjsconsulting.com/
+https://github.com/coryhouse/reactjsconsulting
+http://www.jeremymoritz.com/
