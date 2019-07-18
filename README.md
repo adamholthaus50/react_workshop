@@ -1,9 +1,5 @@
 ## Prerequisites
 
-Do these steps **before** KCDC:
-
-If you have any problems, email cory@reactjsconsulting.com.
-
 1. Install [Node 10 or newer](http://nodejs.org)
 1. Install [Git](https://git-scm.com/)
 1. Install [VS Code](https://code.visualstudio.com/)
